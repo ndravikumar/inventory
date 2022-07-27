@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin: 50px;
+}
+
+.pie-container {
+  margin-top: 20px;
+}
+
+.bar-container {
+  margin-top: 20px;
+}
+
+.chart-container, .d-flex {
+  display: flex;
+  width: 100%;
+}
+
+.pie-chart, .bar-chart, .w-50 {
+  width: 50%
+}
+
+.w-50 {
+  margin: 10px
+}
